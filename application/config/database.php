@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'fdb4.awardspace.net',
-	'username' => '2535697_alldbz',
-	'password' => 'eadutechmans01-30',
-	'database' => '2535697_alldbz',
+	'hostname' => 'wcwimj6zu5aaddlj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+	'username' => 'omh5n8g3lqn6j0fi',
+	'password' => 'eybgu8rmkjsm3n2c',
+	'database' => 'x1chjxn4h8obat2f',
 	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
